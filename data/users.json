@@ -1,0 +1,107 @@
+[
+  {
+    "username": "Winnie",
+    "favorites": [
+      {
+        "name": "Loki",
+        "value": "Scythe, Katars",
+        "inline": false
+      },
+      {
+        "name": "Thor",
+        "value": "Orb, Hammer",
+        "inline": false
+      }
+    ]
+  },
+  {
+    "username": "schquid",
+    "favorites": [
+      {
+        "name": "Jiro",
+        "value": "Sword, Scythe",
+        "inline": false
+      },
+      {
+        "name": "Mordex",
+        "value": "Gauntlets, Scythe",
+        "inline": false
+      },
+      {
+        "name": "Teros",
+        "value": "Axe, Hammer",
+        "inline": false
+      },
+      {
+        "name": "Val",
+        "value": "Gauntlets, Sword",
+        "inline": false
+      },
+      {
+        "name": "Cross",
+        "value": "Blasters, Gauntlets",
+        "inline": false
+      },
+      {
+        "name": "Ezio",
+        "value": "Sword, Orb",
+        "inline": false
+      }
+    ]
+  },
+  {
+    "username": "Frenchiest Fry",
+    "favorites": [
+      {
+        "name": "Brynn",
+        "value": "Axe, Spear",
+        "inline": false
+      },
+      {
+        "name": "Hattori",
+        "value": "Sword, Spear",
+        "inline": false
+      },
+      {
+        "name": "Rayman",
+        "value": "Gauntlets, Axe",
+        "inline": false
+      },
+      {
+        "name": "Jaeyun",
+        "value": "Greatsword, Sword",
+        "inline": false
+      },
+      {
+        "name": "Koji",
+        "value": "Bow, Sword",
+        "inline": false
+      },
+      {
+        "name": "Azoth",
+        "value": "Bow, Axe",
+        "inline": false
+      },
+      {
+        "name": "Queen Nai",
+        "value": "Spear, Katars",
+        "inline": false
+      }
+    ]
+  },
+  {
+    "username": "Time Captain",
+    "favorites": [
+      {
+        "name": "Ezio",
+        "value": "Sword, Orb",
+        "inline": false
+      },
+      {
+        "name": "Red Raptor",
+        "value": "Battle Boots, Orb",
+        "inline": false
+      }
+    ]
+  }
+]
